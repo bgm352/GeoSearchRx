@@ -1,0 +1,8 @@
+streamlit
+pandas
+pytrends
+openai
+google-generativeai
+google-auth
+google-api-python-client
+requests
